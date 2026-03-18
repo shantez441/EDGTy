@@ -1,0 +1,889 @@
+
+
+    Directory: C:\Users\WALKER\AppData\Local
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/8/2020   6:33 AM                Adobe
+d-----         4/1/2020   9:25 AM                Diagnostics
+d-----        5/15/2020   9:31 PM                ElevatedDiagnostics
+d-----         1/6/2020   6:21 AM                Far Manager
+d-----         1/3/2020   9:14 AM                Google
+d-----        1/10/2020   4:55 PM                Microsoft
+d-----         1/3/2020   1:25 PM                Microsoft Help
+d-----        10/5/2023  11:45 AM                Temp
+d-----         1/2/2020  11:07 AM                VirtualStore
+-a----        10/5/2023  11:43 AM           8224 GDIPFONTCACHEV1.DAT
+-a----         1/8/2020   8:16 AM           7608 resmon.resmoncfg
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Adobe
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/3/2020   8:51 AM                Acrobat
+d-----         1/8/2020   7:11 AM                ARM
+d-----         1/3/2020   8:52 AM                Color
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Adobe\Acrobat
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        3/26/2020   1:28 PM                DC
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Adobe\Acrobat\DC
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/3/2020   8:55 AM                Cache
+d-----         1/3/2020   9:01 AM                ToolsSearchCacheRdr
+-a----         1/3/2020   8:55 AM          79807 AdobeCMapFnt19.lst
+-a----        1/21/2020   1:25 PM         250662 AdobeSysFnt19.lst
+-a----        4/10/2020   6:26 AM         446546 IconCacheRdr65536.dat
+-a----        3/26/2020   1:28 PM          20480 SharedDataEvents
+-a----        1/21/2020   1:25 PM          97297 UserCache.bin
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Adobe\ARM
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        3/27/2020   4:21 PM                {291AA914-A987-4CE9-BD63-AC0A92
+                                                 D435E5}
+d-----         4/9/2020   2:07 PM                Reader_19.010.20098
+d-----        4/13/2020  11:24 AM                S
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Adobe\Color
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/3/2020   8:52 AM                Profiles
+-a----         1/3/2020   8:52 AM           1152 ACECache11.lst
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Adobe\Color\Profiles
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/3/2020   8:52 AM          66208 wscRGB.icc
+-a----         1/3/2020   8:52 AM           2676 wsRGB.icc
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         4/1/2020  10:11 AM                2550435360
+d-----         4/1/2020   9:26 AM                2551478646
+d-----        5/15/2020   9:31 PM                3391462126
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         4/1/2020   8:44 AM                2020040105.000
+d-----         4/1/2020   8:59 AM                2020040105.001
+d-----         4/1/2020   9:00 AM                2020040106.000
+d-----         4/1/2020   9:01 AM                2020040106.001
+d-----         4/1/2020   9:07 AM                2020040106.002
+d-----         4/1/2020   9:10 AM                2020040106.003
+d-----         4/1/2020   9:17 AM                2020040106.004
+d-----         4/1/2020   9:25 AM                2020040106.005
+d-----         4/1/2020  10:11 AM                2020040107.000
+d-----         4/1/2020  10:11 AM                2020040107.001
+-a----         4/1/2020  10:11 AM          15605 latest.cab
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040105.000
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   8:44 AM          11382 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   8:44 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   8:44 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   8:44 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   8:44 AM          51424 Registry log.reg
+-a----         4/1/2020   8:44 AM          10173 ResultReport.xml
+-a----         4/1/2020   8:44 AM            312 results.xml
+-a----         4/1/2020   8:44 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040105.001
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   8:59 AM           1914 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   8:59 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   8:59 AM          51424 Registry log.reg
+-a----         4/1/2020   8:59 AM          10136 ResultReport.xml
+-a----         4/1/2020   8:59 AM            312 results.xml
+-a----         4/1/2020   8:59 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040106.000
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:00 AM          11379 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:00 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:00 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   9:00 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   9:00 AM          51424 Registry log.reg
+-a----         4/1/2020   9:00 AM          10173 ResultReport.xml
+-a----         4/1/2020   9:00 AM            312 results.xml
+-a----         4/1/2020   9:00 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040106.001
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:00 AM          11379 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:01 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:00 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   9:01 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   9:00 AM          51424 Registry log.reg
+-a----         4/1/2020   9:01 AM          10173 ResultReport.xml
+-a----         4/1/2020   9:01 AM            312 results.xml
+-a----         4/1/2020   9:00 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040106.002
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:07 AM          11380 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:07 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:07 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   9:07 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   9:07 AM          51424 Registry log.reg
+-a----         4/1/2020   9:07 AM          10173 ResultReport.xml
+-a----         4/1/2020   9:07 AM            312 results.xml
+-a----         4/1/2020   9:07 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040106.003
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:10 AM          11381 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:10 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:10 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   9:10 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   9:10 AM          51424 Registry log.reg
+-a----         4/1/2020   9:10 AM          10173 ResultReport.xml
+-a----         4/1/2020   9:10 AM            312 results.xml
+-a----         4/1/2020   9:10 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040106.004
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:14 AM          11379 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:17 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:14 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   9:17 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   9:14 AM          51424 Registry log.reg
+-a----         4/1/2020   9:17 AM          10173 ResultReport.xml
+-a----         4/1/2020   9:17 AM            312 results.xml
+-a----         4/1/2020   9:14 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040106.005
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:25 AM          11380 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:25 AM           8355 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020   9:25 AM           1265 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020   9:25 AM           1265 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020   9:25 AM          51424 Registry log.reg
+-a----         4/1/2020   9:25 AM          10173 ResultReport.xml
+-a----         4/1/2020   9:25 AM            312 results.xml
+-a----         4/1/2020   9:25 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040107.000
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020  10:10 AM          11382 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020  10:11 AM           8356 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020  10:10 AM           1266 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020  10:11 AM           1266 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020  10:10 AM          51424 Registry log.reg
+-a----         4/1/2020  10:11 AM          10174 ResultReport.xml
+-a----         4/1/2020  10:11 AM            312 results.xml
+-a----         4/1/2020  10:10 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2550435360\2020040107.001
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020  10:11 AM          11380 AudioDiagnostic.0.debugreport.x
+                                                 ml
+-a----         4/1/2020  10:11 AM           8356 AudioDiagnostic.1.debugreport.x
+                                                 ml
+-a----         4/1/2020  10:11 AM           1266 DeviceDiagnostic.0.debugreport.
+                                                 xml
+-a----         4/1/2020  10:11 AM           1266 DeviceDiagnostic.1.debugreport.
+                                                 xml
+-a----         4/1/2020  10:11 AM          51424 Registry log.reg
+-a----         4/1/2020  10:11 AM          10174 ResultReport.xml
+-a----         4/1/2020  10:11 AM            312 results.xml
+-a----         4/1/2020  10:11 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2551478646
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         4/1/2020   9:26 AM                2020040106.000
+-a----         4/1/2020   9:26 AM          10155 latest.cab
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\2551478646\2020040106.000
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         4/1/2020   9:25 AM          11355 MaintenanceDiagnostic.0.debugre
+                                                 port.xml
+-a----         4/1/2020   9:26 AM          10250 MaintenanceDiagnostic.1.debugre
+                                                 port.xml
+-a----         4/1/2020   9:26 AM           8855 ResultReport.xml
+-a----         4/1/2020   9:26 AM            332 results.xml
+-a----         4/1/2020   9:25 AM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\3391462126
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/15/2020   9:31 PM                2020051518.000
+-a----        5/15/2020   9:31 PM           9551 latest.cab
+
+
+    Directory: C:\Users\WALKER\AppData\Local\ElevatedDiagnostics\3391462126\2020051518.000
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/15/2020   9:31 PM           2172 HomeGroupDiagnostic.0.debugrepo
+                                                 rt.xml
+-a----        5/15/2020   9:31 PM          11545 ResultReport.xml
+-a----        5/15/2020   9:31 PM            266 results.xml
+-a----        5/15/2020   9:31 PM          48956 results.xsl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Far Manager
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        9/28/2023   1:22 AM                Profile
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Far Manager\Profile
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/6/2020   6:22 AM                PluginsData
+-a----        9/28/2023   5:45 PM         131072 history.db
+-a----         1/6/2020   6:22 AM          12288 localconfig.db
+-a----        9/28/2023   5:45 PM         131072 plugincache64.db
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Google
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/3/2020   9:14 AM                Chrome
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Google\Chrome
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/19/2020   7:18 AM                User Data
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Google\Chrome\User Data
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/19/2020   7:17 AM                BrowserMetrics
+d-----         1/3/2020   9:14 AM                CertificateRevocation
+d-----         1/3/2020   9:14 AM                CertificateTransparency
+d-----         1/3/2020   9:14 AM                Crashpad
+d-----        5/19/2020   7:18 AM                Default
+d-----         1/3/2020   9:14 AM                FileTypePolicies
+d-----         1/3/2020   9:14 AM                InterventionPolicyDatabase
+d-----         1/3/2020   9:14 AM                MEIPreload
+d-----         1/3/2020   9:14 AM                OriginTrials
+d-----         1/3/2020   9:14 AM                PepperFlash
+d-----         1/3/2020   9:14 AM                pnacl
+d-----         1/3/2020   9:14 AM                Safe Browsing
+d-----         1/3/2020   9:14 AM                ShaderCache
+d-----         1/3/2020   9:14 AM                SSLErrorAssistant
+d-----         1/3/2020   9:14 AM                Subresource Filter
+d-----         1/3/2020   9:14 AM                SwReporter
+d-----         1/3/2020   9:14 AM                WidevineCdm
+-a----        5/19/2020   7:18 AM              4 chrome_shutdown_ms.txt
+-a----        5/19/2020   7:17 AM        1048576 CrashpadMetrics-active.pma
+-a----         1/3/2020   9:14 AM              0 First Run
+-a----        5/19/2020   7:18 AM          78889 Local State
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d---s-         1/2/2020  11:07 AM                Credentials
+d-----        4/17/2020   8:00 AM                Device Metadata
+d-----        1/21/2020   1:28 PM                Event Viewer
+d-----         1/2/2020  11:08 AM                Feeds
+d-----         1/6/2020   6:22 AM                FORMS
+d-----         1/6/2020  11:28 AM                Internet Explorer
+d-----         1/6/2020  10:58 AM                Media Player
+d-----         1/6/2020  11:14 AM                Office
+d-----         1/6/2020  11:10 AM                OneNote
+d-----         1/8/2020   6:30 AM                Outlook
+d-----         1/3/2020   8:46 AM                PlayReady
+d-----        1/10/2020   4:55 PM                PowerShell
+d-----         1/6/2020  11:14 AM                Publisher
+d-----         1/3/2020   9:18 AM                TaskSchedulerConfig
+d-----        1/10/2020   4:55 PM                Windows
+d-----         1/2/2020  12:22 PM                Windows Mail
+d-----         1/2/2020  11:07 AM                Windows Media
+d-----         1/2/2020  11:08 AM                Windows Sidebar
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Device Metadata
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/3/2020   6:57 AM                dmrccache
+-a----        4/17/2020   8:00 AM         777344 dmrc.idx
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Event Viewer
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/21/2020   1:28 PM                Views
+-a----        5/16/2020   8:08 AM           1812 RecentViews
+-a----        5/16/2020   8:08 AM            109 Settings.Xml
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Feeds
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:08 AM                Feeds for United States~
+d-----         1/2/2020  11:08 AM                Microsoft Feeds~
+-a----         1/2/2020  11:16 AM           7168 FeedsStore.feedsdb-ms
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Feeds\Feeds for United States~
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/2/2020  11:08 AM          28672 Popular Government Questions
+                                                 from USA~dgov~.feed-ms
+-a----         1/2/2020  11:08 AM          28672 USA~dgov Updates~c News and
+                                                 Features~.feed-ms
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Feeds\Microsoft Feeds~
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/2/2020  11:08 AM          28672 Microsoft at Home~.feed-ms
+-a----         1/2/2020  11:08 AM          28672 Microsoft at Work~.feed-ms
+-a----         1/2/2020  11:08 AM          28672 MSNBC News~.feed-ms
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\FORMS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/6/2020   6:22 AM         254900 FRMDATA64.DAT
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/19/2020   7:17 AM                DomainSuggestions
+d-----         1/3/2020   6:49 AM                imagestore
+d-----         1/3/2020   8:52 AM                Indexed DB
+d-----         1/2/2020  12:46 PM                Recovery
+d-----         1/3/2020   8:46 AM                TabRoaming
+d-----         1/3/2020   8:46 AM                Tracking Protection
+d-----         1/3/2020   8:47 AM                UrlBlockManager
+d-----         1/6/2020  11:28 AM                VersionManager
+-a----         1/2/2020  11:08 AM          12194 brndlog.bak
+-a----         1/2/2020  11:08 AM          12194 brndlog.txt
+-a----         1/2/2020  11:16 AM           9148 frameiconcache.dat
+-a----         1/3/2020   8:46 AM          49120 MSIMGSIZ.DAT
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer\DomainSuggestions
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/19/2020   7:17 AM          18176 en-US.3
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer\imagestore
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/19/2020   7:17 AM                l6xrhcl
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer\Indexed DB
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/3/2020   8:52 AM           8192 edb.chk
+-a----         1/3/2020   8:52 AM         524288 edb.log
+-a----         1/3/2020   8:47 AM         524288 edbres00001.jrs
+-a----         1/3/2020   8:47 AM         524288 edbres00002.jrs
+-a----         1/3/2020   8:52 AM        8454144 Internet.edb
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer\Recovery
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:54 AM                Active
+d-----         1/2/2020  12:53 PM                High
+d-----         1/2/2020  11:44 AM                Last Active
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer\UrlBlockManager
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/3/2020   8:47 AM              0 urlblocklist.bin
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Internet Explorer\VersionManager
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/6/2020  11:28 AM          15845 versionlist.xml
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Media Player
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:07 AM                Sync Playlists
+d-----         1/3/2020   7:12 AM                Transcoded Files Cache
+-a----        1/21/2020   6:53 AM        1200128 CurrentDatabase_372.wmdb
+-a----         1/6/2020  10:58 AM          69038 LocalMLS_0.wmdb
+-a----         1/6/2020  10:58 AM          67330 LocalMLS_1.wmdb
+-a----         1/6/2020  10:58 AM          67710 LocalMLS_2.wmdb
+-a----         1/6/2020  10:58 AM          68002 LocalMLS_3.wmdb
+-a----        1/21/2020   6:53 AM           2380 wmpfolders.wmdb
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Media Player\Sync Playlists
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:07 AM                en-US
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Office
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/8/2020   8:17 AM                14.0
+d-----         1/3/2020   1:47 PM                Groove
+d-----         1/6/2020  11:14 AM                ONetConfig
+-a----         1/6/2020  11:11 AM           3522 PowerP14.customUI
+-a----         1/6/2020  11:14 AM           3513 Word14.customUI
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Office\14.0
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/8/2020   8:17 AM                OfficeFileCache
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Office\Groove
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/3/2020   1:47 PM                System
+d-----         1/3/2020   1:47 PM                User
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Office\ONetConfig
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/6/2020   6:22 AM            128 998bcf2d84167c3ecb6ea5f94ac4790
+                                                 5.sig
+-a----         1/6/2020   6:22 AM           2036 998bcf2d84167c3ecb6ea5f94ac4790
+                                                 5.xml
+-a----         1/6/2020  11:14 AM            128 e9cf72c651e3959561340e69d4f45ea
+                                                 d.sig
+-a----         1/6/2020  11:14 AM           2037 e9cf72c651e3959561340e69d4f45ea
+                                                 d.xml
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\OneNote
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/6/2020  11:10 AM                14.0
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\OneNote\14.0
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/6/2020  11:10 AM                Backup
+d-----         1/6/2020  11:10 AM                OneNoteOfflineCache_Files
+-a----         1/6/2020  11:10 AM       20974880 OneNoteOfflineCache.onecache
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Outlook
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/8/2020   7:56 AM                RoamCache
+-a----         1/8/2020   6:30 AM            185 ~last~.sharing.xml.obi
+-a----         1/8/2020   6:30 AM            185 Outlook.sharing.xml.obi
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Outlook\RoamCache
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/8/2020   7:56 AM            462 Stream_AvailabilityOptions_2_00
+                                                 8AA6C4225A794780CE2A946EF2E15C.
+                                                 dat
+-a----         1/8/2020   7:56 AM            588 Stream_Calendar_2_B86F85A3585B1
+                                                 84DA6667FF95924DCCE.dat
+-a----         4/9/2020   1:23 PM            260 Stream_ContactPrefs_2_68CE8D307
+                                                 3C41D4C9DF96BEBA4D23CF4.dat
+-a----         1/8/2020   7:56 AM            267 Stream_ConversationPrefs_2_8D10
+                                                 6F35DE9778438E4FF7A7ADFD12BD.da
+                                                 t
+-a----         1/8/2020   7:56 AM            196 Stream_RssRule_2_6FB518A9C7FD69
+                                                 4FBFA37BED4000A531.dat
+-a----         1/8/2020   7:56 AM            478 Stream_TCPrefs_2_7D7C087B1F5219
+                                                 419F54BFE70899FBC3.dat
+-a----         1/8/2020   7:56 AM            712 Stream_WorkHours_1_C223A50AEBDC
+                                                 D84391508CFE4770EA1A.dat
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\PowerShell
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        10/5/2023  11:45 AM           4040 ModuleAnalysisCache
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:12 AM                1033
+d-----         1/2/2020  11:08 AM                Burn
+d-----        5/19/2020   7:20 AM                Caches
+d-----         1/9/2020  11:31 AM                Explorer
+d-----        7/14/2009   5:34 AM                GameExplorer
+d-----        1/10/2020   5:21 PM                PowerShell
+d-----         1/2/2020  11:07 AM                Ringtones
+d-----         1/2/2020  11:48 AM                Themes
+d-----        10/5/2023  11:43 AM                WER
+-a----         1/2/2020  12:16 PM           6125 WindowsUpdate.log
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows\1033
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/16/2020   2:59 PM         299160 StructuredQuerySchema.bin
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows\Caches
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/17/2020   5:03 PM         108736 {AFBF9F1A-8EE8-4C77-AF34-C647E3
+                                                 7CA0D9}.1.ver0x000000000000006d
+                                                 .db
+-a----        5/19/2020   7:20 AM         103832 {AFBF9F1A-8EE8-4C77-AF34-C647E3
+                                                 7CA0D9}.1.ver0x000000000000006e
+                                                 .db
+-a----         1/2/2020   7:53 PM          16384 cversions.1.db
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows\Explorer
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/2/2020  11:08 AM          32768 ExplorerStartupLog.etl
+-a----        10/5/2023  11:43 AM          16384 ExplorerStartupLog_RunOnce.etl
+-a----         1/9/2020  11:31 AM             24 thumbcache_1024.db
+-a----        3/26/2020  12:59 PM        5242880 thumbcache_256.db
+-a----         1/9/2020  11:31 AM        1048576 thumbcache_32.db
+-a----         1/9/2020  11:31 AM        4194304 thumbcache_96.db
+-a----        1/10/2020   4:52 PM          25880 thumbcache_idx.db
+-a----         1/9/2020  11:31 AM             24 thumbcache_sr.db
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows\PowerShell
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        1/10/2020   5:20 PM          25736 StartupProfileData-Interactive
+-a----        10/5/2023  11:44 AM          24464 StartupProfileData-NonInteracti
+                                                 ve
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows\Themes
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020  12:59 PM           3538 Custom.theme
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows\WER
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        9/28/2023   3:55 PM                ERC
+d-----        10/5/2023  11:43 AM                ReportArchive
+d-----        10/5/2023  11:43 AM                ReportQueue
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows Mail
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:07 AM                Backup
+d---s-         1/2/2020  11:07 AM                Stationery
+-a----         1/2/2020  11:07 AM            672 account{478A8455-D38E-4BE0-AF70
+                                                 -2EE969EF8307}.oeaccount
+-a----         1/2/2020  11:07 AM           1736 account{995373C4-2DAE-4D2D-A863
+                                                 -09BAC69DC0C8}.oeaccount
+-a----         1/2/2020  11:07 AM           1508 account{AC8DDD8E-8DB1-4E64-B285
+                                                 -616DE3950AB5}.oeaccount
+-a----         1/2/2020  12:22 PM           8192 edb.chk
+-a----         1/2/2020  12:22 PM        2097152 edb.log
+-a----         1/2/2020  11:07 AM        2097152 edb00001.log
+-a----         1/2/2020  11:07 AM        2097152 edbres00001.jrs
+-a----         1/2/2020  11:07 AM        2097152 edbres00002.jrs
+-a----         1/2/2020  11:07 AM            260 oeold.xml
+-a----         1/2/2020  12:22 PM        2113536 WindowsMail.MSMessageStore
+-a----         1/2/2020  11:07 AM          16384 WindowsMail.pat
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows Mail\Backup
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:07 AM                new
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows Mail\Stationery
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        7/14/2009   2:01 AM            255 Bears.htm
+-a----        6/10/2009  11:47 PM           1074 Bears.jpg
+-a----        6/10/2009  11:44 PM           2575 Blue_Gradient.jpg
+-a----        6/10/2009  11:44 PM           4587 Cave_Drawings.gif
+-a----        6/10/2009  11:44 PM           2319 Connectivity.gif
+-a----        6/10/2009  11:44 PM           3792 Dotted_Lines.emf
+-a----        7/14/2009   2:01 AM            231 Garden.htm
+-a----        6/10/2009  11:47 PM          23871 Garden.jpg
+-a----        6/10/2009  11:44 PM           5524 Genko_1.emf
+-a----        6/10/2009  11:44 PM          10340 Genko_2.emf
+-a----        6/10/2009  11:44 PM         116724 Graph.emf
+-a----        7/14/2009   2:01 AM            237 Green Bubbles.htm
+-a----        6/10/2009  11:47 PM           6406 GreenBubbles.jpg
+-a----        6/10/2009  11:44 PM           2920 grid_(cm).wmf
+-a----        6/10/2009  11:44 PM           7498 grid_(inch).wmf
+-a----        7/14/2009   2:01 AM            235 Hand Prints.htm
+-a----        6/10/2009  11:47 PM           4222 HandPrints.jpg
+-a----        6/10/2009  11:44 PM         152300 Memo.emf
+-a----        6/10/2009  11:44 PM           2209 Monet.jpg
+-a----        6/10/2009  11:44 PM           4192 Month_Calendar.emf
+-a----        6/10/2009  11:44 PM          26036 Music.emf
+-a----        6/10/2009  11:44 PM           2950 Notebook.jpg
+-a----        7/14/2009   2:01 AM            237 Orange Circles.htm
+-a----        6/10/2009  11:47 PM           6381 OrangeCircles.jpg
+-a----        7/14/2009   2:01 AM            232 Peacock.htm
+-a----        6/10/2009  11:47 PM           5115 Peacock.jpg
+-a----        6/10/2009  11:44 PM           3981 Pine_Lumber.jpg
+-a----        6/10/2009  11:44 PM           5115 Pretty_Peacock.jpg
+-a----        6/10/2009  11:44 PM          14049 Psychedelic.jpg
+-a----        7/14/2009   2:01 AM            233 Roses.htm
+-a----        6/10/2009  11:47 PM           1920 Roses.jpg
+-a----        6/10/2009  11:44 PM          15776 Sand_Paper.jpg
+-a----        6/10/2009  11:44 PM          37316 Seyes.emf
+-a----        7/14/2009   2:01 AM            237 Shades of Blue.htm
+-a----        6/10/2009  11:47 PM           4734 ShadesOfBlue.jpg
+-a----        6/10/2009  11:44 PM          81292 Shorthand.emf
+-a----        6/10/2009  11:44 PM           1990 Small_News.jpg
+-a----        7/14/2009   2:01 AM            232 Soft Blue.htm
+-a----        6/10/2009  11:47 PM          10569 SoftBlue.jpg
+-a----        7/14/2009   2:01 AM            230 Stars.htm
+-a----        6/10/2009  11:47 PM           7505 Stars.jpg
+-a----        6/10/2009  11:44 PM           1864 Stucco.gif
+-a----        6/10/2009  11:44 PM           3650 Tanspecks.jpg
+-a----        6/10/2009  11:44 PM           4638 Tiki.gif
+-a----        6/10/2009  11:44 PM          26720 To_Do_List.emf
+-a----        6/10/2009  11:44 PM           3168 White_Chocolate.jpg
+-a----        6/10/2009  11:44 PM          15063 Wrinkled_Paper.gif
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows Media
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:07 AM                12.0
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows Media\12.0
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         1/2/2020  11:07 AM            498 WMSDKNS.DTD
+-a----         1/2/2020  11:07 AM          10191 WMSDKNS.XML
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Microsoft\Windows Sidebar
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         1/2/2020  11:08 AM                Gadgets
+-a----         1/2/2020  11:08 AM             84 Settings.ini
+
+
+    Directory: C:\Users\WALKER\AppData\Local\Temp
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+              10/5/2023  11:45 AM              0 DOWN.tmp
+-a----        10/5/2023  11:44 AM           1677 EHN8085859DNMNNX.ps1
+              10/5/2023  11:43 AM              0 FXSAPIDebugLogFile.txt
+-ar---        3/12/2010   4:29 AM         149352 ose00000.exe
+-a----        10/5/2023  11:44 AM           8972 SYS.tmp
+
+
