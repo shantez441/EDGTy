@@ -1,0 +1,47 @@
+
+Host Name:                 DESKTOP-A3IVMNF
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:   
+Product ID:                00331-20300-80381-AA217
+Original Install Date:     1/5/2020, 3:51:33 AM
+System Boot Time:          6/12/2025, 4:06:06 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 1 Stepping 1 AuthenticAMD ~3000 Mhz
+                           [02]: AMD64 Family 25 Model 1 Stepping 1 AuthenticAMD ~3000 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.0.B64.1704101057, 4/10/2017
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 556 MB
+Virtual Memory: Max Size:  2,687 MB
+Virtual Memory: Available: 900 MB
+Virtual Memory: In Use:    1,787 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-A3IVMNF
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB4516115
+                           [02]: KB4524569
+                           [03]: KB4528759
+                           [04]: KB5003306
+                           [05]: KB4592449
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.10.12.2
+                                 IP address(es)
+                                 [01]: 10.10.13.117
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
